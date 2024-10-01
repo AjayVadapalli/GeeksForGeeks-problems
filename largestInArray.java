@@ -49,7 +49,7 @@ class GFG {
 
 
 class Solution {
-    public static int largest(int[] arr) {
+    public int largest(int[] arr) {
         // code here
         int large=arr[0];
         for(int i=0;i<arr.length;i++){
