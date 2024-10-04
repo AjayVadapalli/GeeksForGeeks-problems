@@ -51,7 +51,7 @@ class Main
 class Solution
 {
     //Function to return a list containing the union of the two arrays.
-    public static ArrayList<Integer> findUnion(int arr1[], int arr2[], int n, int m)
+    public ArrayList<Integer> findUnion(int arr1[], int arr2[], int n, int m)
     {
         // add your code here
         ArrayList<Integer> union = new ArrayList<>();
