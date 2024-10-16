@@ -48,7 +48,6 @@ class Solution
             j--;
         }
         arr[j+1]=key;
-        
   }
   //Function to sort the array using insertion sort algorithm.
   public void insertionSort(int arr[], int n)
