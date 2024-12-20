@@ -11,6 +11,7 @@ class IntArray {
         return a;
     }
 
+    
     public static void print(int[] a) {
         for (int e : a) System.out.print(e + " ");
         System.out.println();
