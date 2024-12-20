@@ -1,5 +1,7 @@
+import java.util.ArrayList;
+import java.util.Collections;
 
-    class Solution {
+class Solution {
         static ArrayList<Integer> leaders(int arr[]) {
             // code here
              ArrayList<Integer> ans = new ArrayList<>();
